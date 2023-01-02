@@ -1,0 +1,11 @@
+git clone path
+
+ls
+cd file name 
+ls
+touch file1
+ls
+git status
+git add file1
+git commit -m "hail"
+git push
